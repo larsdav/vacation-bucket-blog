@@ -24,13 +24,13 @@
       "type": "richtext",
       "required": true
     },
-    "cover_image_url": {
+    "coverImageUrl": {
       "type": "string"
     },
-    "author_name": {
+    "authorName": {
       "type": "string"
     },
-    "is_published": {
+    "published": {
       "type": "boolean",
       "default": false
     },
